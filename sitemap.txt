@@ -1,2 +1,4 @@
+https://um-rs.github.io/categories/index.html
+https://um-rs.github.io/tags/index.html
 https://um-rs.github.io/posts/1.html
 https://um-rs.github.io/
