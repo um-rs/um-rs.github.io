@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>49的小窝</title>
   
+  <subtitle>秋凉的时鸟</subtitle>
+  <link href="https://www.49bit.cc/atom.xml" rel="self"/>
   
-  <link href="https://um-rs.github.io/atom.xml" rel="self"/>
-  
-  <link href="https://um-rs.github.io/"/>
+  <link href="https://www.49bit.cc/"/>
   <updated>2025-10-29T07:32:37.438Z</updated>
-  <id>https://um-rs.github.io/</id>
+  <id>https://www.49bit.cc/</id>
   
   <author>
-    <name>49</name>
+    <name>何为北之北</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>熟悉markdown操作</title>
-    <link href="https://um-rs.github.io/posts/1.html"/>
-    <id>https://um-rs.github.io/posts/1.html</id>
+    <link href="https://www.49bit.cc/posts/1.html"/>
+    <id>https://www.49bit.cc/posts/1.html</id>
     <published>2025-10-28T17:36:22.000Z</published>
     <updated>2025-10-29T07:32:37.438Z</updated>
     
