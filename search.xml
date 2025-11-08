@@ -50,6 +50,12 @@
       
       
       
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -100,6 +106,12 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你好，这是我的第一篇博客，试试markdown语法吧。</p><h1 id="这是一个标题"><a href="#这是一个标题" class="headerlink" title="这是一个标题"></a>这是一个标题</h1><p>我只是在测试markdown的功能而已。</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>这是一级标题</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>这是二级标题</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>这是三级标题</p><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>这是四级标题</p><blockquote><p>我来试试引用功能</p></blockquote><p>再来试一试列表:</p><ol><li>这还得英文引号才行啊</li><li>那好吧</li></ol><p>无序列表呢:</p><ul><li>那看起来还行</li><li>再试试</li></ul><p>再来试试:</p><ul><li><input disabled="" type="checkbox"> 测试</li><li><input disabled="" type="checkbox"> 测试</li><li><input disabled="" type="checkbox"> 测试</li></ul><p>再来试试代码块</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">  <span class="built_in">printf</span>(<span class="string">&quot;Hello world!&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>然后出现一个有点复杂的东西 表格诶</p><table><thead><tr><th align="center">测试</th><th align="center">这是</th><th align="center">表格</th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><p>如果我想要<strong>加粗</strong>的话</p><p>假如我想要<em>斜体</em>的话</p><p>然后是脚注功能<a href="%E5%91%83%E5%91%83%E5%91%83">^脚注</a></p><p>然后我想插入一条横线</p><hr><p>那假如我想插入一个超链接 <a href="baidu.com" title="一个搜索引擎">百度</a></p><p>用html里的也可以诶<u>这是一段下划线</u></p><p>:smile:</p><p style = "color: red"> 哇 html真好用 </p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
       
     </entry>
     
