@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.49bit.cc/posts/95ac3455.html</loc>
+    
+    <lastmod>2025-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.49bit.cc/posts/87b0cec.html</loc>
     
     <lastmod>2025-11-13</lastmod>
@@ -112,7 +121,7 @@
 
   <url>
     <loc>https://www.49bit.cc/</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,21 +129,21 @@
   
   <url>
     <loc>https://www.49bit.cc/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.49bit.cc/tags/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.49bit.cc/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
